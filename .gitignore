@@ -1,0 +1,12 @@
+# Arquivos de log
+*.log
+logs/
+*.log.*
+# carga massiva
+Carga_Massiva*.csv
+# VSCODE
+.vscode/
+# Jupyter
+.ipynb_checkpoints
+# Arquivo temporario do excel
+~*.*
